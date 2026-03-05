@@ -4,7 +4,7 @@
   -  Ongoing projects include 
   -  -1. Hybrid RAG + Knowledge Graph
   -  -2. Low code no code platform
-- Day 2:
+-  Day 2:
   - Meeting with Gaurav & Sushmit Sir
   - Presentation demo of trainee with Hybrid RAG
   - Learning outcome of presentation:
