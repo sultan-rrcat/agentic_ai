@@ -1,13 +1,23 @@
-### **Planning**
--  Day 1:
-  -  Meeting with Gaurav & Sushmit Sir
-  -  Ongoing projects include 
-  -  -1. Hybrid RAG + Knowledge Graph
-  -  -2. Low code no code platform
--  Day 2:
-  - Meeting with Gaurav & Sushmit Sir
-  - Presentation demo of trainee with Hybrid RAG
-  - Learning outcome of presentation:
-    -1. embedding mode used All-MiniLM-L6-v2
-    -2. llama3.1 is used for evaluation
-    -3. reading tables with data requires extra steps
+## Planning
+
+### Day 1
+**Meeting with:** Gaurav Sir & Sushmit Sir
+
+**Discussion Topics:**
+- Overview of ongoing projects:
+  1. Hybrid RAG + Knowledge Graph
+  2. Low-Code / No-Code Platform
+
+
+---
+
+### Day 2
+**Meeting with:** Gaurav Sir & Sushmit Sir  
+
+**Activity:**
+- Presentation and demo by a trainee on **Hybrid RAG implementation**
+
+**Key Learning Outcomes:**
+1. The embedding model used was **all-MiniLM-L6-v2**
+2. **Llama 3.1** was used for evaluation
+3. Reading and extracting information from **tables in documents requires additional processing steps**
